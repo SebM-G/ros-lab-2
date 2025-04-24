@@ -1,0 +1,39 @@
+[0.011s] Invoking command in '/home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/miranseb/wwu/597F-Robotics/ros-lab-2/ros_gz_app -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app
+[0.304s] -- The C compiler identification is GNU 13.3.0
+[0.447s] -- The CXX compiler identification is GNU 13.3.0
+[0.472s] -- Detecting C compiler ABI info
+[0.605s] -- Detecting C compiler ABI info - done
+[0.613s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.613s] -- Detecting C compile features
+[0.613s] -- Detecting C compile features - done
+[0.625s] -- Detecting CXX compiler ABI info
+[0.746s] -- Detecting CXX compiler ABI info - done
+[0.753s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.754s] -- Detecting CXX compile features
+[0.754s] -- Detecting CXX compile features - done
+[0.773s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.949s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.278s] -- Configuring done (1.1s)
+[1.281s] -- Generating done (0.0s)
+[1.283s] -- Build files have been written to: /home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app
+[1.288s] Invoked command in '/home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake /home/miranseb/wwu/597F-Robotics/ros-lab-2/ros_gz_app -DBUILD_TESTING=ON -DCMAKE_INSTALL_PREFIX=/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app
+[1.289s] Invoking command in '/home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app -- -j24 -l24
+[1.358s] Invoked command in '/home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --build /home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app -- -j24 -l24
+[1.359s] Invoking command in '/home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app
+[1.370s] -- Install configuration: ""
+[1.370s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ament_index/resource_index/package_run_dependencies/ros_gz_app
+[1.370s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ament_index/resource_index/parent_prefix_path/ros_gz_app
+[1.371s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.sh
+[1.371s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.dsv
+[1.371s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/path.sh
+[1.371s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/path.dsv
+[1.371s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.bash
+[1.371s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.sh
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.zsh
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.dsv
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/package.dsv
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ament_index/resource_index/packages/ros_gz_app
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig.cmake
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig-version.cmake
+[1.372s] -- Installing: /home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/package.xml
+[1.394s] Invoked command in '/home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=<ROS2-Jazzy>[\u@\h \W]$ /usr/bin/cmake --install /home/miranseb/wwu/597F-Robotics/ros-lab-2/build/ros_gz_app

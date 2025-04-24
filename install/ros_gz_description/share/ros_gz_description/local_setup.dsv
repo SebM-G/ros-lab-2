@@ -1,0 +1,4 @@
+source;share/ros_gz_description/environment/ament_prefix_path.sh
+source;share/ros_gz_description/environment/path.sh
+source;share/ros_gz_description/environment/ros_gz_description.sh
+source;share/ros_gz_description/environment/ros_gz_description.dsv

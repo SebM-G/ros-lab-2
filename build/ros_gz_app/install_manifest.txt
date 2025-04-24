@@ -1,0 +1,15 @@
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ament_index/resource_index/package_run_dependencies/ros_gz_app
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ament_index/resource_index/parent_prefix_path/ros_gz_app
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.sh
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/ament_prefix_path.dsv
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/path.sh
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/environment/path.dsv
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.bash
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.sh
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.zsh
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/local_setup.dsv
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/package.dsv
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ament_index/resource_index/packages/ros_gz_app
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig.cmake
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/cmake/ros_gz_appConfig-version.cmake
+/home/miranseb/wwu/597F-Robotics/ros-lab-2/install/ros_gz_app/share/ros_gz_app/package.xml
